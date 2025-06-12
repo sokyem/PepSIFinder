@@ -1,4 +1,4 @@
-Step-by-step Protocol to Use PepSIFinder 
+Step-by-step Protocol to Use PepSIFinder
 **1. Prepare the Input Data**
 Export your peptide-spectrum match (PSM) results from PEAKS or another search engine. Ensure your DataFrame includes at least the following columns: `Peptide`, `RT`, `z`, `1/k0 Range`, `m/z`, `Mass`, `Scan`, and `Accession`.
 **2. Load the Data into a DataFrame**
